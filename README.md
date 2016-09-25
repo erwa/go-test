@@ -1,2 +1,1 @@
-# go-test
-Playing around with Go
+Project for testing Golang.
